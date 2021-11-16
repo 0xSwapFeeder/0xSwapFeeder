@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tristan GREMONT</h1>
-<h3 align="center">A passionate dev in back-end and inovation from France</h3>
+<h3 align="center">A passionate dev in back-end, inovation and game developpement from France</h3>
 
 - 🔭 I’m currently working on **My_XFML2.0 (c++ game engine)**
 
-- 🌱 I’m currently learning **JavaScript, C++**
+- 🌱 I’m currently learning **JavaScript, C++ and Haskell**
+
+- I currently know **C, Python and C#**
 
 - 👨‍💻 All of my projects are available at [https://tristan-gremont.com](https://tristan-gremont.com)
 
