@@ -8,7 +8,7 @@
 </p>
 
 <p align='center'>
-<code><img src="https://visitor-badge.glitch.me/badge?page_id=MindBlower&style=flat-square"/></code>
+<code><img src="https://visitor-badge.glitch.me/badge?page_id=MindBlower78&style=flat-square"/></code>
 </p>
 
 <p float="left">
