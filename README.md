@@ -8,13 +8,13 @@
 </p>
 
 <p align='center'>
-<code><img src="https://visitor-badge.glitch.me/badge?page_id=MindBlower78&style=flat-square"/></code>
+<code><img src="https://visitor-badge.glitch.me/badge?page_id=0xSwapFeeder&style=flat-square"/></code>
 </p>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MindBlower78&show_icons=true&theme=dracula&layout=compact&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xSwapFeeder&show_icons=true&theme=dracula&layout=compact&count_private=true&include_all_commits=true" width="49%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MindBlower78&theme=dracula&layout=compact" width="49%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xSwapFeeder&theme=dracula&layout=compact" width="49%" /> 
 </p>
 
 ## `Languages`
