@@ -12,8 +12,7 @@
 </p>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xSwapFeeder&show_icons=true&theme=dracula&layout=compact&count_private=true&include_all_commits=true" width="49%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=0xSwapFeeder&show_icons=true&theme=dracula&layout=compact&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xSwapFeeder&theme=dracula&layout=compact" width="49%" /> 
 </p>
 
