@@ -4,7 +4,7 @@
 </h1> 
 
 <p align='center'>
-    Software developer passionate about game engines, tools development, and automation
+    Software developer passionate about software architecture, tools development, and automation
 </p>
 
 <p align='center'>
