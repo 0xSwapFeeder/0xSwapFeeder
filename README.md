@@ -69,7 +69,7 @@
 - **IFTTT/Zappier like app**: (Nest/Flutter/React/Docker) Automation tool, micro-services/AMQP architecture.
 - **Game Engine**: (C++/SFML/RayLib/Unity) Modular E.C.S with plugin system and fancy interface to develop games.
 - **Linter+LSP**: (Rust/TypeScript/Node.js) Solidity linter with a VSCode Language Server Protocol extension.
-- **Osmium Blockchain Extensions**: (Node.js/Rust/Go) Tools for Smart Contracts, debugging, deployment, etc. Ongoing project for multiple blockchains.
+- **Osmium Blockchain Extensions**: (Node.js/Rust/Go) Tools for Smart Contracts, debugging, deployment, etc. Ongoing project for multiple blockchains. https://github.com/astrodevs-labs/osmium-solidity
 - **SmartContracts/Web3 Tooling**: (Node.js/Rust) Comprehensive tooling for Massa, including SC ABI, automatic serialization, Protobuf CLI.
 - **Massa MetaMask Snap**: MetaMask snap for Massa in TypeScript with full CI/CD.
 - **R-Type**: (C++) Multi-threaded/Online Retro-game using Asio and my own engine.
